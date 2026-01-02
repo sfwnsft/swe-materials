@@ -8,3 +8,4 @@
 4. Learn to Code with C – The MagPi Essentials
 5. Create GUI w-Python – Laura Sach & Marlon O'Hanlon
 6. C & GUI Programming (2nd Edition) – Simon Long
+7. An Introduction to Object-Oriented Modeling – Martina Seidl
