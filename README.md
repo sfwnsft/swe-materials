@@ -9,3 +9,5 @@
 5. Create GUI w-Python – Laura Sach & Marlon O'Hanlon
 6. C & GUI Programming (2nd Edition) – Simon Long
 7. An Introduction to Object-Oriented Modeling – Martina Seidl
+8. ACM – Code of Ethics
+9. A Concise Introduction to Software Engineering – Pankaj Jalote
